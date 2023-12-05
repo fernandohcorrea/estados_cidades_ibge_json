@@ -1,4 +1,4 @@
-# Extrai dados de CSV IBGE e comverte em JSON
+# Extrai dados de CSV IBGE e converte em JSON
 
 ## Exemplo de resultado:
 
